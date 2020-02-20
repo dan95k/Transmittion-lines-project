@@ -1,3 +1,5 @@
+![windows](https://user-images.githubusercontent.com/44104789/74891750-6bf78100-5390-11ea-9e0d-e2088253cf58.png)
+
 Task 2 is focused around the binomial and chebychev trnasformers, using different methods of matching in order
 to match an input wave to the load. In the binomial part we match using the binomial formula according to POZAR book
 and fior the chebychev we used the chebychev polinomial to solve the problem
@@ -28,3 +30,7 @@ Now we can calculate the reflection coefficient using the formula gamma = (Zd-Z0
 find the reflection coefficient of the whole system. We will do the same proccess for every angle and every frequency to
 eventually draw a map of reflection coefficient for every input. 
 the lower the reflection coefficient the better the light will pass throuh the window and we will get clearer image.
+
+![Task4_analogy](https://user-images.githubusercontent.com/44104789/74891857-b973ee00-5390-11ea-8068-07d51f88267c.png)
+![Task4_graphs](https://user-images.githubusercontent.com/44104789/74891860-ba0c8480-5390-11ea-9383-dc545e104f45.png)
+
