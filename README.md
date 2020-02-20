@@ -2,6 +2,7 @@
   <img src="(https://user-images.githubusercontent.com/44104789/74891750-6bf78100-5390-11ea-9e0d-e2088253cf58.png">
 </p>
 
+## Task 2
 Task 2 is focused around the binomial and chebychev trnasformers, using different methods of matching in order
 to match an input wave to the load. In the binomial part we match using the binomial formula according to POZAR book
 and for the chebychev we used the chebychev polinomial to solve the problem.
@@ -10,6 +11,7 @@ and for the chebychev we used the chebychev polinomial to solve the problem.
   <img src="https://user-images.githubusercontent.com/44104789/74892113-60588a00-5391-11ea-8b45-3dee2962606a.png">
 </p>
 
+## Task 3
 Task 3 is another approach to the same problem of matching th loads in a system, this time we used
 an exponential approach which saying it is possible to match the impendaces by increasing the length
 of the transmittion line.
@@ -18,7 +20,7 @@ of the transmittion line.
   <img src="https://user-images.githubusercontent.com/44104789/74892141-78300e00-5391-11ea-8edf-14af62c070fe.png">
 </p>
 
-Task 4 (Main code)
+## Task 4 (Main code)
 In this code we perform an analysis of a light passing through an arrayof layers in a window. 
 We shoot a ray of light into the window and we want it to pass the window without it breaking. 
 the ranges of the incidence angle and wavelength as follows: from -45 degrees to 45 degrees and for
@@ -27,7 +29,7 @@ in order to do that we use an anlogy to a transmittion line when we want to matc
 impadence to the load (input impadence is the space before the window and the load is the space after the window) 
 when every layer we add is another transmittion line. Epsilons of every metter is given.
 
-The idea is as follows, we calculate each layer zeta using the epsilons given using the forumla sqrt(mue0*muer/epsilon0*epsilonr).
+The idea is as follows, we calculate each layer zeta using the epsilons given using the forumla sqrt(mue0 * muer/epsilon0 * epsilonr).
 Later we find each layer width as the width changes for every wavelngth and angle of incidance. 
 Beta is calculated with the forumla 2*pi*f(i)*n(k)/c when f is the frequency and n is the refraction index of the layer and c
 is the speed of light.
