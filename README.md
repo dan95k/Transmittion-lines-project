@@ -1,12 +1,22 @@
-![windows](https://user-images.githubusercontent.com/44104789/74891750-6bf78100-5390-11ea-9e0d-e2088253cf58.png)
+<p align="center">
+  <img src="(https://user-images.githubusercontent.com/44104789/74891750-6bf78100-5390-11ea-9e0d-e2088253cf58.png">
+</p>
 
 Task 2 is focused around the binomial and chebychev trnasformers, using different methods of matching in order
 to match an input wave to the load. In the binomial part we match using the binomial formula according to POZAR book
-and fior the chebychev we used the chebychev polinomial to solve the problem
+and for the chebychev we used the chebychev polinomial to solve the problem.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44104789/74892113-60588a00-5391-11ea-8b45-3dee2962606a.png">
+</p>
 
 Task 3 is another approach to the same problem of matching th loads in a system, this time we used
 an exponential approach which saying it is possible to match the impendaces by increasing the length
 of the transmittion line.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44104789/74892141-78300e00-5391-11ea-8edf-14af62c070fe.png">
+</p>
 
 Task 4 (Main code)
 In this code we perform an analysis of a light passing through an arrayof layers in a window. 
